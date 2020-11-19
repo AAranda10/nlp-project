@@ -53,6 +53,16 @@ REPOS = [
     'freeCodeCamp/error-pages','freeCodeCamp/demo-projects-nginx-config','freeCodeCamp/freeCatPhotoApp', 
     'freeCodeCamp/forum-users-nav', 'freeCodeCamp/CurriculumExpansion','freeCodeCamp/boilerplate-socketio',
     'freeCodeCamp/boilerplate-socialauth', 'freeCodeCamp/fcc-express-bground-pkg',
+    'freeCodeCamp/2017-new-coder-survey', 'freeCodeCamp/multiple-choice-questions', 'freeCodeCamp/osfg-dir-server',
+    'freeCodeCamp/fcc-github-syncing-service', 'freeCodeCamp/open-source-for-good-directory', 'freeCodeCamp/math-for-programmers-prototype',
+    'freeCodeCamp/2016-new-coder-survey', 'freeCodeCamp/mongodb-statsd','freeCodeCamp/open2017','freeCodeCamp/conference-for-good',
+    'freeCodeCamp/donate-page','freeCodeCamp/gsoc','freeCodeCamp/react-freecodecamp-search','freeCodeCamp/search',
+    'freeCodeCamp/donations-for-good','freeCodeCamp/TranslationExpansion','freeCodeCamp/news','freeCodeCamp/cz-freecodecamp',
+    'freeCodeCamp/persist','freeCodeCamp/ZiplineStatusChecker','freeCodeCamp/wiki-generator','freeCodeCamp/pm2-pager',
+    'freeCodeCamp/actual-react-router-bootstrap','freeCodeCamp/camper-gh-bot','freeCodeCamp/camper-gitter-bot','freeCodeCamp/home',
+    'freeCodeCamp/store.js','freeCodeCamp/react-notification','freeCodeCamp/arcade-mode','freeCodeCamp/camper-probot','freeCodeCamp/react-bootstrap',
+    'freeCodeCamp/classroom-mode','freeCodeCamp/wiki','freeCodeCamp/events','freeCodeCamp/curriculum','freeCodeCamp/terms-of-service',
+    'freeCodeCamp/outreach-for-good','freeCodeCamp/gatsby-source-filesystem','freeCodeCamp/jamstack-hackathon','freeCodeCamp/open-data'
 ]
 
 headers = {"Authorization": f"token {github_token}", "User-Agent": github_username}
