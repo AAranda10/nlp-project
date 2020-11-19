@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import unicodedata
 import re
 import json
@@ -15,9 +9,6 @@ from nltk.corpus import stopwords
 import pandas as pd
 
 import acquire
-
-
-# In[ ]:
 
 
 def basic_clean(string):
