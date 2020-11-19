@@ -128,5 +128,5 @@ def prep_data(df, column, extra_words=[], exclude_words=[]):
     
     df['lemmatized'] = df[column].apply(basic_clean).apply(lemmatize)
     
-    return df[['title', column, 'stemmed', 'lemmatized', 'clean']]
+    return df[['repo', 'language', column, 'stemmed', 'lemmatized', 'clean']]
 
