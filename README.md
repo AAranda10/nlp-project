@@ -10,4 +10,4 @@ To predict the programming language used in a repository, based on the text of i
 
 ## Key Findings and Takeaways
 
-![clustering zillow dataset](https://github.com/Yongliang-Shi/clustering-project/blob/main/cluster_zillow.png)
+![takeaways](https://github.com/AAranda10/nlp-project/blob/main/Summary.png)
